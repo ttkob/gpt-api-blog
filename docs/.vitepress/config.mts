@@ -31,7 +31,12 @@ export default defineConfig({
             {
               text: 'GPT API 完整使用指南',
               link: '/blog/gpt-api/gpt-api-complete-guide-2026'
+            },
+            {
+              text: 'GPT API 价格说明与计费方式',
+              link: '/blog/gpt-api/gpt-api-pricing-guide-2026'
             }
+            
           ]
         },
         {

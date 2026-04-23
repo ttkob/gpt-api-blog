@@ -11,6 +11,7 @@
 
 ## 最新文章
 
+- [GPT API 价格说明与计费方式](/blog/gpt-api/gpt-api-pricing-guide-2026)
 - [GPT API 完整使用指南：从入门到接入](/blog/gpt-api/gpt-api-complete-guide-2026)
 - [GPT API 使用入门](/blog/second-post)
 - [API 中转站完整说明](/blog/api-middleman-guide)
