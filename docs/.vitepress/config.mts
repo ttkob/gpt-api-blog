@@ -6,6 +6,10 @@ export default defineConfig({
   description: 'API中转站、AI中转站、国内API中转、大模型聚合中转平台使用指南，涵盖 GPT API、Claude API、Gemini API 等常见模型接口接入教程。',
   lastUpdated: true,
 
+  head: [
+    ['link', { rel: 'icon', type: 'image/jpeg', href: '/favicon.jpg' }]
+  ],
+  
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
