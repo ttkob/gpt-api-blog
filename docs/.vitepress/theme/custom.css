@@ -1,0 +1,148 @@
+:root {
+  --vp-c-brand-1: #2563eb;
+  --vp-c-brand-2: #1d4ed8;
+  --vp-c-brand-3: #1e40af;
+  --vp-button-brand-bg: #2563eb;
+  --vp-button-brand-hover-bg: #1d4ed8;
+  --vp-home-hero-name-color: #2563eb;
+}
+
+/* 背景更淡，不那么密 */
+.VPHome {
+  background-image: radial-gradient(rgba(148, 163, 184, 0.22) 1px, transparent 1px);
+  background-size: 30px 30px;
+}
+
+/* 首屏整体更居中更克制 */
+.VPHero {
+  padding-top: 72px !important;
+  padding-bottom: 48px !important;
+}
+
+.VPHero .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* 主标题 */
+.VPHero .name {
+  font-size: 54px !important;
+  line-height: 1.18 !important;
+  font-weight: 800 !important;
+  text-align: center;
+  max-width: 980px;
+  margin: 0 auto 12px !important;
+}
+
+/* 副标题 */
+.VPHero .text {
+  font-size: 28px !important;
+  line-height: 1.4 !important;
+  font-weight: 700 !important;
+  color: #334155 !important;
+  text-align: center;
+  max-width: 900px;
+  margin: 0 auto 20px !important;
+}
+
+/* 说明文字 */
+.VPHero .tagline {
+  max-width: 860px;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 18px;
+  line-height: 1.9;
+  color: #64748b;
+}
+
+/* 按钮区域 */
+.VPHero .actions {
+  justify-content: center;
+  margin-top: 28px !important;
+}
+
+/* 主按钮 */
+.VPHero .action .VPButton {
+  min-width: 280px;
+  height: 56px;
+  font-size: 22px;
+  font-weight: 700;
+  border-radius: 14px;
+  box-shadow: 0 10px 30px rgba(37, 99, 235, 0.22);
+  transition: all 0.2s ease;
+}
+
+.VPHero .action .VPButton:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 14px 34px rgba(37, 99, 235, 0.28);
+}
+
+/* features 卡片 */
+.VPFeatures {
+  margin-top: 24px;
+}
+
+.VPFeature {
+  border: 1px solid rgba(148, 163, 184, 0.16);
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.78);
+  backdrop-filter: blur(6px);
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.05);
+}
+
+.VPFeature .title {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.VPFeature .details {
+  color: #64748b;
+  line-height: 1.8;
+}
+
+/* 首页正文更紧凑 */
+.VPDoc .container {
+  max-width: 920px !important;
+}
+
+.VPDoc h2 {
+  margin-top: 42px;
+  font-size: 28px;
+}
+
+.VPDoc p,
+.VPDoc li {
+  font-size: 17px;
+  line-height: 1.9;
+  color: #475569;
+}
+
+/* 移动端优化 */
+@media (max-width: 768px) {
+  .VPHero {
+    padding-top: 40px !important;
+  }
+
+  .VPHero .name {
+    font-size: 34px !important;
+    line-height: 1.25 !important;
+  }
+
+  .VPHero .text {
+    font-size: 20px !important;
+    line-height: 1.5 !important;
+  }
+
+  .VPHero .tagline {
+    font-size: 15px;
+    line-height: 1.8;
+    padding: 0 12px;
+  }
+
+  .VPHero .action .VPButton {
+    min-width: 220px;
+    height: 50px;
+    font-size: 18px;
+  }
+}
