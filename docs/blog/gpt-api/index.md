@@ -4,7 +4,10 @@
 
 ## 最新文章
 
+- [AI API中转站完整指南：国内高效接入大模型API的实战经验解析](/blog/gpt-api/ai-api-relay-integration-guide.html)
+
 - [GPT-Image-2 API 震撼上线！全网最全实测指南与高性价比 AI API 中转站推荐](/blog/gpt-api/gpt-image-2-api-guide)
+
 
 ## 后续会更新的内容
 
