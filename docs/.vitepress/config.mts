@@ -21,7 +21,10 @@ export default defineConfig({
         {
           text: 'GPT API',
           items: [
-            { text: 'GPT API 分类首页', link: '/blog/gpt-api/' }
+            { text: 'GPT API 分类首页', link: '/blog/gpt-api/' },
+            { text: 'GPT-Image-2 API 震撼上线！全网最全实测指南与高性价比 AI API 中转站推荐', link: '/blog/gpt-api/gpt-image-2-api-guide' }
+   
+            
           ]
         }
       ],
