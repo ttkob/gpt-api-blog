@@ -2,47 +2,51 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   lang: 'zh-CN',
-  title: 'GPT API 使用指南',
-  description: 'GPT API 与 API 中转站相关教程博客',
-
+  title: 'API中转站导航与使用指南',
+  description: 'API中转站、AI中转站、国内API中转、大模型聚合中转平台使用指南，涵盖 GPT API、Claude API、Gemini API 等常见模型接口接入教程。',
   lastUpdated: true,
 
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '博客', link: '/blog/first-post' },
-      { text: 'GPT API', link: '/blog/gpt-api/gpt-api-complete-guide-2026' }
+      { text: 'API中转站', link: 'https://jeniya.cn' },
+      { text: 'GPT API', link: '/blog/gpt-api/' },
+      { text: 'Claude API', link: '/blog/claude-api/' },
+      { text: 'Gemini API', link: '/blog/gemini-api/' },
+      { text: '免责申明', link: '/disclaimer' }
     ],
 
     sidebar: {
-      '/blog/': [
+      '/blog/gpt-api/': [
         {
-          text: '基础文章',
+          text: 'GPT API',
           items: [
-            { text: '我的第一篇博客', link: '/blog/first-post' },
-            { text: 'GPT API 使用入门', link: '/blog/second-post' },
-            { text: 'API 中转站完整说明', link: '/blog/api-middleman-guide' }
+            { text: 'GPT API 分类首页', link: '/blog/gpt-api/' }
           ]
-        },
+        }
+      ],
+      '/blog/claude-api/': [
         {
-          text: 'GPT API 教程',
-          collapsed: false,
+          text: 'Claude API',
           items: [
-            {
-              text: 'GPT API 完整使用指南',
-              link: '/blog/gpt-api/gpt-api-complete-guide-2026'
-            },
-            {
-              text: 'GPT API 价格说明与计费方式',
-              link: '/blog/gpt-api/gpt-api-pricing-guide-2026'
-            }
-            
+            { text: 'Claude API 分类首页', link: '/blog/claude-api/' }
           ]
-        },
+        }
+      ],
+      '/blog/gemini-api/': [
         {
-          text: 'API 中转站',
-          collapsed: false,
-          items: []
+          text: 'Gemini API',
+          items: [
+            { text: 'Gemini API 分类首页', link: '/blog/gemini-api/' }
+          ]
+        }
+      ],
+      '/blog/api-middleman/': [
+        {
+          text: 'API中转站',
+          items: [
+            { text: 'API中转站分类首页', link: '/blog/api-middleman/' }
+          ]
         }
       ]
     },
