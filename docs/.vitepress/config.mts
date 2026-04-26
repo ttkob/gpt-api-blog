@@ -14,16 +14,17 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: 'API中转站', link: 'https://jeniya.cn' },
-      { text: 'GPT API', link: '/blog/gpt-api/' },
-      { text: 'Claude API', link: '/blog/claude-api/' },
-      { text: 'Gemini API', link: '/blog/gemini-api/' },
+      { text: 'GPT API 专题', link: '/blog/gpt-api/' },
+      { text: 'Claude API 专题', link: '/blog/claude-api/' },
+      { text: 'Gemini API 专题', link: '/blog/gemini-api/' },
+      { text: 'API 中转专题', link: '/blog/api-middleman/' },
       { text: '免责申明', link: '/disclaimer' }
     ],
 
     sidebar: {
       '/blog/gpt-api/': [
         {
-          text: 'GPT API',
+          text: 'GPT API 专题',
           items: [
             { text: 'GPT API 分类首页', link: '/blog/gpt-api/' },
             { text: 'AI API中转站完整指南：国内高效接入大模型API的实战经验解析', link: '/blog/gpt-api/ai-api-relay-integration-guide' },
@@ -34,7 +35,7 @@ export default defineConfig({
       ],
       '/blog/claude-api/': [
         {
-          text: 'Claude API',
+          text: 'Claude API 专题',
           items: [
             { text: 'Claude API 分类首页', link: '/blog/claude-api/' }
           ]
@@ -42,7 +43,7 @@ export default defineConfig({
       ],
       '/blog/gemini-api/': [
         {
-          text: 'Gemini API',
+          text: 'Gemini API 专题',
           items: [
             { text: 'Gemini API 分类首页', link: '/blog/gemini-api/' }
           ]
@@ -50,9 +51,11 @@ export default defineConfig({
       ],
       '/blog/api-middleman/': [
         {
-          text: 'API中转站',
+          text: 'API 中转专题',
           items: [
-            { text: 'API中转站分类首页', link: '/blog/api-middleman/' }
+            { text: 'API中转站分类首页', link: '/blog/api-middleman/' },
+            { text: ' API中转站是什么？一篇看懂大模型 API 中转的作用与适用场景', link: '/blog/api-middleman/what-is-api-middleman/' }
+
           ]
         }
       ]
