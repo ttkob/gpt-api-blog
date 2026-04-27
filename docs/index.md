@@ -34,6 +34,20 @@ features:
 - Claude API
 - Gemini API
 
+## 快速入口
+
+- [支持模型列表](/models.html)
+- [价格说明](/pricing.html)
+- [API 接入文档](/docs.html)
+- [常见问题 FAQ](/faq.html)
+
+## 专题导航
+
+- [GPT API 专题](/blog/gpt-api/)
+- [Claude API 专题](/blog/claude-api/)
+- [Gemini API 专题](/blog/gemini-api/)
+- [API 中转专题](/blog/api-middleman/)
+
 ## 适合哪些人使用
 
 - 开发者
