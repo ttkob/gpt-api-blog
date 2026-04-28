@@ -4,6 +4,8 @@
 
 ## 最新文章
 
+- [大模型 API 中转和官方 API 有什么区别？开发者如何选择](/blog/api-middleman/api-middleman-vs-official-api.html)
+
 - [API中转站是什么？一篇看懂大模型 API 中转的作用与适用场景](/blog/api-middleman/what-is-api-middleman.html)
 
 

@@ -5,6 +5,15 @@
 > 作者：本站编辑
 
 GPT-Image-2 API 正式上线后，很多开发者开始关注它在图像生成、图像编辑、多模态应用中的实际表现。本文将从功能特点、适用场景、调用方式、实测体验和接入建议几个方面，详细说明 GPT-Image-2 API 的使用方法，并结合实际需求介绍高性价比的 AI API 中转站选择思路。
+
+**国内最推荐API中转站平台**：
+> AI API 中转站 平台地址：<https://jeniya.cn>
+
+> AI API 中转站 平台地址：<https://jeniya.top>
+
+> AI API 中转站 平台地址：<https://jeniya.chat>
+
+
 [立即访问 AI API 中转站](https://jeniya.cn)
 
 ## 一、GPT-Image-2 API 是什么

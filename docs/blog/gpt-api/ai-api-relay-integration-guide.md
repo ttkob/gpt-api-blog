@@ -9,6 +9,12 @@
 在当前的 AI 应用开发浪潮中，无论是构建智能客服、知识库问答，还是开发 AI 绘图和音乐生成工具，开发者都需要频繁接入各类 AI 大模型 API。然而，面对 OpenAI（GPT系列）、Anthropic（Claude系列）、Google（Gemini）以及 Midjourney 等海外优质模型，国内开发者往往会遇到网络连通性差、海外支付渠道受限、多平台账号管理繁琐等痛点。
 
 为了解决这些问题，“**AI API中转站**”应运而生。它为开发者提供了一种低门槛、高效率的解决方案。本文将结合实战经验，详细解析 AI中转站 的工作原理、核心优势，并分享如何优雅地将这些多模型聚合接口接入到你的实际项目中。
+**国内最推荐API中转站平台**：
+> AI API 中转站 平台地址：<https://jeniya.cn>
+
+> AI API 中转站 平台地址：<https://jeniya.top>
+
+> AI API 中转站 平台地址：<https://jeniya.chat>
 
 [立即访问 AI API 中转站](https://jeniya.cn/)
 
