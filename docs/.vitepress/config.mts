@@ -46,7 +46,8 @@ export default defineConfig({
         {
           text: 'Claude API 专题',
           items: [
-            { text: 'Claude API 分类首页', link: '/blog/claude-api/' }
+            { text: 'Claude API 分类首页', link: '/blog/claude-api/' },
+            { text: ' Claude API 国内怎么用？申请、接入与中转方案完整教程', link: '/blog/claude-api/claude-api-china-guide' }
           ]
         },
         {
@@ -63,7 +64,8 @@ export default defineConfig({
         {
           text: 'Gemini API 专题',
           items: [
-            { text: 'Gemini API 分类首页', link: '/blog/gemini-api/' }
+            { text: 'Gemini API 分类首页', link: '/blog/gemini-api/' },
+            { text: 'Gemini API Key 如何申请？新手完整教程', link: '/blog/gemini-api/gemini-api-key-guide' },
           ]
         },
         {

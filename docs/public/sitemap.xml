@@ -75,4 +75,14 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+    <url>
+    <loc>https://apizhongzhan.com/blog/claude-api/claude-api-china-guide.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+      <url>
+    <loc>https://apizhongzhan.com/blog/gemini-api/gemini-api-key-guide.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>

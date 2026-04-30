@@ -2,6 +2,13 @@
 
 这里将持续更新 Claude API 相关教程，包括接口使用方式、接入流程、常见问题与经验总结。
 
+
+## 最新文章
+
+- [Claude API 国内怎么用？申请、接入与中转方案完整教程](/blog/claude-api/claude-api-china-guide)
+
+
+
 ## 后续会更新的内容
 
 - Claude API 使用教程
