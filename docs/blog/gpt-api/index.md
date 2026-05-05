@@ -4,6 +4,8 @@
 
 ## 最新文章
 
+- [OpenAI API 官方接口和中转接口有什么区别？开发者接入指南](/blog/gpt-api/openai-api-official-vs-relay-guide.html)
+
 - [GPT API 国内怎么调用？OpenAI API 接入完整教程](/blog/gpt-api/gpt-api-china-guide.html)
 
 - [AI API中转站完整指南：国内高效接入大模型API的实战经验解析](/blog/gpt-api/ai-api-relay-integration-guide.html)

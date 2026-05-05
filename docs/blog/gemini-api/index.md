@@ -4,6 +4,8 @@
 
 ## 最新文章
 
+- [Gemini API 国内怎么调用？接入方法、限制与替代方案说明](/blog/gemini-api/gemini-api-china-guide)
+
 - [Gemini API Key 如何申请？新手完整教程](/blog/gemini-api/gemini-api-key-guide)
 
 
