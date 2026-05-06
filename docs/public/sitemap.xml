@@ -100,4 +100,23 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
+  <url>
+    <loc>https://apizhongzhan.com/blog/api-middleman/one-api-for-gpt-claude-gemini.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://apizhongzhan.com/blog/api-middleman/how-to-choose-api-middleman.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://apizhongzhan.com/blog/gpt-api/gpt-5-5-api-python-guide.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
 </urlset>

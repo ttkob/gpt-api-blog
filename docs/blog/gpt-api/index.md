@@ -4,6 +4,8 @@
 
 ## 最新文章
 
+- [GPT-5.5 API 调用示例：Python 从零接入完整教程](/blog/gpt-api/gpt-5-5-api-python-guide.html)
+
 - [OpenAI API 官方接口和中转接口有什么区别？开发者接入指南](/blog/gpt-api/openai-api-official-vs-relay-guide.html)
 
 - [GPT API 国内怎么调用？OpenAI API 接入完整教程](/blog/gpt-api/gpt-api-china-guide.html)

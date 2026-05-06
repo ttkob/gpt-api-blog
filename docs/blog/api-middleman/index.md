@@ -4,6 +4,10 @@
 
 ## 最新文章
 
+- [API中转站怎么选？从稳定性、价格、并发和兼容性看这 8 个指标](/blog/api-middleman/how-to-choose-api-middleman.html)
+
+- [一套代码接入 GPT、Claude、Gemini：统一大模型接口方案详解](/blog/api-middleman/one-api-for-gpt-claude-gemini.html)
+
 - [统一 LLM API 接入指南：如何用一个接口对接 GPT、Claude、Gemini 等模型](/blog/api-middleman/unified-llm-api-guide.html)
 
 - [大模型 API 中转和官方 API 有什么区别？开发者如何选择](/blog/api-middleman/api-middleman-vs-official-api.html)

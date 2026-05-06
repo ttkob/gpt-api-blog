@@ -27,6 +27,7 @@ export default defineConfig({
           text: 'GPT API 专题',
           items: [
             { text: 'GPT API 分类首页', link: '/blog/gpt-api/' },
+            { text: 'GPT-5.5 API 调用示例：Python 从零接入完整教程', link: '/blog/gpt-api/gpt-5-5-api-python-guide' },
             { text: 'OpenAI API 官方接口和中转接口有什么区别？开发者接入指南', link: '/blog/gpt-api/openai-api-official-vs-relay-guide' },
             { text: 'GPT API 国内怎么调用？OpenAI API 接入完整教程', link: '/blog/gpt-api/gpt-api-china-guide' },
             { text: 'AI API中转站完整指南：国内高效接入大模型API的实战经验解析', link: '/blog/gpt-api/ai-api-relay-integration-guide' },
@@ -85,6 +86,8 @@ export default defineConfig({
           text: 'API 中转专题',
           items: [
             { text: 'API中转站分类首页', link: '/blog/api-middleman/' },
+            { text: 'API中转站怎么选？从稳定性、价格、并发和兼容性看这 8 个指标', link: '/blog/api-middleman/how-to-choose-api-middleman' },
+            { text: '一套代码接入 GPT、Claude、Gemini：统一大模型接口方案详解', link: '/blog/api-middleman/one-api-for-gpt-claude-gemini' },
             { text: '统一 LLM API 接入指南：如何用一个接口对接 GPT、Claude、Gemini 等模型', link: '/blog/api-middleman/unified-llm-api-guide' },
             { text: '大模型 API 中转和官方 API 有什么区别？开发者如何选择', link: '/blog/api-middleman/api-middleman-vs-official-api/' },
             { text: 'API中转站是什么？一篇看懂大模型 API 中转的作用与适用场景', link: '/blog/api-middleman/what-is-api-middleman/' },
