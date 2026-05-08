@@ -5,6 +5,8 @@
 
 ## 最新文章
 
+- [Claude API 如何调用？Python 接入示例与参数说明](/blog/claude-api/claude-api-python-guide)
+
 - [Claude API 国内怎么用？申请、接入与中转方案完整教程](/blog/claude-api/claude-api-china-guide)
 
 
