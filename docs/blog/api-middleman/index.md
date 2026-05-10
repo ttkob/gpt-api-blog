@@ -4,6 +4,9 @@
 
 ## 最新文章
 
+- [大模型 API 平台怎么选？API 平台、中转站、官方接口三种方案对比](/blog/api-middleman/ai-api-platform-comparison-guide.html)
+
+
 - [GPT、Claude、Gemini API 怎么选？能力、成本与场景全面对比](/blog/api-middleman/gpt-claude-gemini-api-comparison.html)
 
 - [API中转站怎么选？从稳定性、价格、并发和兼容性看这 8 个指标](/blog/api-middleman/how-to-choose-api-middleman.html)

@@ -87,6 +87,7 @@ export default defineConfig({
           text: 'API 中转专题',
           items: [
             { text: 'API中转站分类首页', link: '/blog/api-middleman/' },
+            { text: '大模型 API 平台怎么选？API 平台、中转站、官方接口三种方案对比', link: '/blog/api-middleman/ai-api-platform-comparison-guide' },
             { text: 'GPT、Claude、Gemini API 怎么选？能力、成本与场景全面对比', link: '/blog/api-middleman/gpt-claude-gemini-api-comparison' },
             { text: 'API中转站怎么选？从稳定性、价格、并发和兼容性看这 8 个指标', link: '/blog/api-middleman/how-to-choose-api-middleman' },
             { text: '一套代码接入 GPT、Claude、Gemini：统一大模型接口方案详解', link: '/blog/api-middleman/one-api-for-gpt-claude-gemini' },
