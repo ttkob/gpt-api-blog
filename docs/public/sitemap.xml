@@ -75,12 +75,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-    <url>
+  <url>
     <loc>https://apizhongzhan.com/blog/claude-api/claude-api-china-guide.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-      <url>
+  <url>
     <loc>https://apizhongzhan.com/blog/gemini-api/gemini-api-key-guide.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -90,70 +90,47 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-    <url>
+  <url>
     <loc>https://apizhongzhan.com/blog/api-middleman/unified-llm-api-guide.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-    <url>
+  <url>
     <loc>https://apizhongzhan.com/blog/gpt-api/openai-api-official-vs-relay-guide.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
     <loc>https://apizhongzhan.com/blog/api-middleman/one-api-for-gpt-claude-gemini.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
     <loc>https://apizhongzhan.com/blog/api-middleman/how-to-choose-api-middleman.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
     <loc>https://apizhongzhan.com/blog/gpt-api/gpt-5-5-api-python-guide.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://apizhongzhan.com/blog/api-middleman/how-to-choose-api-middleman.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-
-  </url>
-    <url>
     <loc>https://apizhongzhan.com/blog/api-middleman/gpt-claude-gemini-api-comparison.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  
-    </url>
-    <url>
+  <url>
     <loc>https://apizhongzhan.com/blog/api-middleman/ai-api-platform-comparison-guide.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  
-    </url>
-    <url>
-    <loc>https://apizhongzhan.com/blog/api-middleman/ai-api-platform-comparison-guide.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  
-      </url>
-    <url>
+  <url>
     <loc>https://apizhongzhan.com/blog/api-middleman/what-is-llm-api.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
-      </url>
-    <url>
+  <url>
     <loc>https://apizhongzhan.com/blog/api-middleman/free-ai-api-guide.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
