@@ -138,5 +138,24 @@
     <priority>0.8</priority>
   </url>
   
+    </url>
+    <url>
+    <loc>https://apizhongzhan.com/blog/api-middleman/ai-api-platform-comparison-guide.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+      </url>
+    <url>
+    <loc>https://apizhongzhan.com/blog/api-middleman/what-is-llm-api.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
+      </url>
+    <url>
+    <loc>https://apizhongzhan.com/blog/api-middleman/free-ai-api-guide.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>

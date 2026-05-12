@@ -4,8 +4,13 @@
 
 ## 最新文章
 
+- [免费 API 接口有哪些？开发者如何选择可用的 AI API 方案](/blog/api-middleman/free-ai-api-guide.html)
+
+- [大模型 API 是什么？开发者常见的大模型 API 使用场景](/blog/api-middleman/what-is-llm-api.html)
+
 - [大模型 API 平台怎么选？API 平台、中转站、官方接口三种方案对比](/blog/api-middleman/ai-api-platform-comparison-guide.html)
 
+- [大模型 API 平台怎么选？API 平台、中转站、官方接口三种方案对比](/blog/api-middleman/ai-api-platform-comparison-guide.html)
 
 - [GPT、Claude、Gemini API 怎么选？能力、成本与场景全面对比](/blog/api-middleman/gpt-claude-gemini-api-comparison.html)
 
