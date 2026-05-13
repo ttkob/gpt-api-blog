@@ -4,6 +4,9 @@
 
 ## 最新文章
 
+- [GPT API 国内怎么接入 Dify？完整配置思路](/blog/gpt-api/dify-gpt-api-guide.html)
+
+
 - [GPT-5.5 API 调用示例：Python 从零接入完整教程](/blog/gpt-api/gpt-5-5-api-python-guide.html)
 
 - [OpenAI API 官方接口和中转接口有什么区别？开发者接入指南](/blog/gpt-api/openai-api-official-vs-relay-guide.html)
