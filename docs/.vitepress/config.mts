@@ -32,6 +32,8 @@ export default defineConfig({
           text: 'GPT API 专题',
           items: [
             { text: 'GPT API 分类首页', link: '/blog/gpt-api/' },
+            { text: 'GPT API 中转站怎么选？开发者最该关注的 8 个问题', link: '/blog/gpt-api/gpt-api-middleman-selection-guide.html' },
+            { text: 'GPT 国内怎么用？中转方案、兼容接口与接入建议', link: '/blog/gpt-api/gpt-api-china-middleman-guide.html' },
             { text: 'GPT API 国内怎么接入 Dify？完整配置思路', link: '/blog/gpt-api/dify-gpt-api-guide' },
             { text: 'GPT-5.5 API 调用示例：Python 从零接入完整教程', link: '/blog/gpt-api/gpt-5-5-api-python-guide' },
             { text: 'OpenAI API 官方接口和中转接口有什么区别？开发者接入指南', link: '/blog/gpt-api/openai-api-official-vs-relay-guide' },
@@ -74,6 +76,7 @@ export default defineConfig({
           text: 'Gemini API 专题',
           items: [
             { text: 'Gemini API 分类首页', link: '/blog/gemini-api/' },
+            { text: 'Gemini API 调用失败怎么办？常见错误与排查方法汇总', link: '/blog/gemini-api/gemini-api-errors-guide' },
             { text: 'Gemini API Python 教程：接入示例、参数说明与常见问题', link: '/blog/gemini-api/gemini-api-python-guide' },
             { text: 'emini API 是什么？开发者使用 Gemini API 前要了解什么', link: '/blog/gemini-api/what-is-gemini-api' },
             { text: 'Gemini Pro 和 Gemini Flash 怎么选？能力、速度与成本对比', link: '/blog/gemini-api/gemini-pro-vs-flash' },

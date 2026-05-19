@@ -4,6 +4,8 @@
 
 ## 最新文章
 
+- [Gemini API 调用失败怎么办？常见错误与排查方法汇总]( /blog/gemini-api/gemini-api-errors-guide.html)
+
 - [Gemini API Python 教程：接入示例、参数说明与常见问题]( /blog/gemini-api/gemini-api-python-guide.html)
 
 - [emini Pro 和 Gemini Flash 怎么选？能力、速度与成本对比](/blog/gemini-api/gemini-pro-vs-flash.html)

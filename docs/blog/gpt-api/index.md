@@ -4,8 +4,11 @@
 
 ## 最新文章
 
-- [GPT API 国内怎么接入 Dify？完整配置思路](/blog/gpt-api/dify-gpt-api-guide.html)
+- [GPT 国内怎么用？中转方案、兼容接口与接入建议](/blog/gpt-api/gpt-api-china-middleman-guide.html)
 
+- [GPT API 中转站怎么选？开发者最该关注的 8 个问题]( /blog/gpt-api/gpt-api-middleman-selection-guide.html)
+
+- [GPT API 国内怎么接入 Dify？完整配置思路](/blog/gpt-api/dify-gpt-api-guide.html)
 
 - [GPT-5.5 API 调用示例：Python 从零接入完整教程](/blog/gpt-api/gpt-5-5-api-python-guide.html)
 

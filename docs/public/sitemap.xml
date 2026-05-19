@@ -150,8 +150,28 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
     <url>
     <loc>https://apizhongzhan.com/blog/gemini-api/gemini-api-python-guide.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+
+    <url>
+    <loc>https://apizhongzhan.com/blog/gemini-api/gemini-api-errors-guide.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://apizhongzhan.com/blog/gpt-api/gpt-api-china-middleman-guide.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://apizhongzhan.com/blog/gpt-api/gpt-api-middleman-selection-guide.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
