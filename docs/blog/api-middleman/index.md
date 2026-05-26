@@ -4,6 +4,8 @@
 
 ## 最新文章
 
+- [免费大模型 API 怎么找？适合测试和学习的 API 获取思路](/blog/api-middleman/free-llm-api-how-to-find.html)
+
 - [免费 API 接口有哪些？开发者如何选择可用的 AI API 方案](/blog/api-middleman/free-ai-api-guide.html)
 
 - [大模型 API 是什么？开发者常见的大模型 API 使用场景](/blog/api-middleman/what-is-llm-api.html)

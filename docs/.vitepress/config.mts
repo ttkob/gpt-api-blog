@@ -32,6 +32,7 @@ export default defineConfig({
           text: 'GPT API 专题',
           items: [
             { text: 'GPT API 分类首页', link: '/blog/gpt-api/' },
+            { text: 'GPT API 国内使用完整指南：从申请、接入到模型选择', link: '/blog/gpt-api/gpt-complete-guide.html' },
             { text: 'GPT API 中转站怎么选？开发者最该关注的 8 个问题', link: '/blog/gpt-api/gpt-api-middleman-selection-guide.html' },
             { text: 'GPT 国内怎么用？中转方案、兼容接口与接入建议', link: '/blog/gpt-api/gpt-api-china-middleman-guide.html' },
             { text: 'GPT API 国内怎么接入 Dify？完整配置思路', link: '/blog/gpt-api/dify-gpt-api-guide' },
@@ -76,6 +77,8 @@ export default defineConfig({
           text: 'Gemini API 专题',
           items: [
             { text: 'Gemini API 分类首页', link: '/blog/gemini-api/' },
+            { text: 'Gemini API 和 GPT API 有什么区别？开发者该怎么选', link: '/blog/gemini-api/gemini-vs-gpt-api-guide' },
+            { text: 'Gemini API 如何调用？cURL 从零到实战示例', link: '/blog/gemini-api/gemini-api-curl-guide' },
             { text: 'Gemini API 调用失败怎么办？常见错误与排查方法汇总', link: '/blog/gemini-api/gemini-api-errors-guide' },
             { text: 'Gemini API Python 教程：接入示例、参数说明与常见问题', link: '/blog/gemini-api/gemini-api-python-guide' },
             { text: 'emini API 是什么？开发者使用 Gemini API 前要了解什么', link: '/blog/gemini-api/what-is-gemini-api' },
@@ -99,6 +102,7 @@ export default defineConfig({
           text: 'API 中转专题',
           items: [
             { text: 'API中转站分类首页', link: '/blog/api-middleman/' },
+            { text: '免费大模型 API 怎么找？适合测试和学习的 API 获取思路', link: '/blog/api-middleman/free-llm-api-how-to-find.html' },
             { text: 'A免费 API 接口有哪些？开发者如何选择可用的 AI API 方案', link: '/blog/api-middleman/free-ai-api-guide' },
             { text: ' 大模型 API 是什么？开发者常见的大模型 API 使用场景', link: '/blog/api-middleman/what-is-llm-api' },
             { text: '大模型 API 平台怎么选？API 平台、中转站、官方接口三种方案对比', link: '/blog/api-middleman/ai-api-platform-comparison-guide' },

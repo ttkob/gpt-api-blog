@@ -4,6 +4,8 @@
 
 ## 最新文章
 
+- [GPT API 国内使用完整指南：从申请、接入到模型选择](/blog/gpt-api/gpt-complete-guide.html)
+
 - [GPT 国内怎么用？中转方案、兼容接口与接入建议](/blog/gpt-api/gpt-api-china-middleman-guide.html)
 
 - [GPT API 中转站怎么选？开发者最该关注的 8 个问题]( /blog/gpt-api/gpt-api-middleman-selection-guide.html)

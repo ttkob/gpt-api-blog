@@ -4,6 +4,10 @@
 
 ## 最新文章
 
+- [Gemini API 和 GPT API 有什么区别？开发者该怎么选]( /blog/gemini-api/gemini-vs-gpt-api-guide.html)
+
+- [Gemini API 如何调用？cURL 从零到实战示例]( /blog/gemini-api/gemini-api-curl-guide.html)
+
 - [Gemini API 调用失败怎么办？常见错误与排查方法汇总]( /blog/gemini-api/gemini-api-errors-guide.html)
 
 - [Gemini API Python 教程：接入示例、参数说明与常见问题]( /blog/gemini-api/gemini-api-python-guide.html)
