@@ -127,8 +127,8 @@ https://your-api-domain/v1
 这一点也非常重要。  
 你必须知道当前接口实际支持的模型名，例如可能是：
 
-- `gemini-1.5-pro`
-- `gemini-1.5-flash`
+- `gemini-3.0-pro`
+- `gemini-3.5-flash`
 
 具体名称一定要以你所使用平台文档为准，不要凭印象写。
 
@@ -169,13 +169,13 @@ Chatbox 能不能接成功，通常就看这三个配置项对不对。
 如果你使用的是 OpenAI 兼容接口方式，Base URL 通常应填写为类似：
 
 ```text
-https://your-api-domain/v1
+https://jeniya.cn/v1
 ```
 
 而不是：
 
 ```text
-https://your-api-domain/v1/chat/completions
+https://jeniya.cn/v1/chat/completions
 ```
 
 ### 为什么这里经常出错
@@ -203,7 +203,7 @@ https://your-api-domain/v1/chat/completions
 例如你当前平台如果支持：
 
 ```text
-gemini-1.5-pro
+gemini-3.0-pro
 ```
 
 那你就应该写这个准确字符串。

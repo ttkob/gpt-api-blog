@@ -319,7 +319,7 @@ keywords:
 例如不要在很多文件里直接硬编码：
 
 ```python
-model = "gpt-4o"
+model = "gpt-5.5"
 ```
 
 更好的做法是：

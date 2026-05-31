@@ -182,13 +182,13 @@ Chatbox 能不能接成功，通常就取决于这三个字段有没有填对。
 如果你用的是 OpenAI 兼容接口，Base URL 通常应该填写为类似：
 
 ```text
-https://your-api-domain/v1
+https://jeniya.cn/v1
 ```
 
 而不是：
 
 ```text
-https://your-api-domain/v1/chat/completions
+https://jeniya.cn/v1/chat/completions
 ```
 
 #### 为什么很多人这里会写错
@@ -196,7 +196,7 @@ https://your-api-domain/v1/chat/completions
 因为很多 cURL 示例给的是完整接口路径，例如：
 
 ```bash
-https://your-api-domain/v1/chat/completions
+https://jeniya.cn/v1/chat/completions
 ```
 
 但在 Chatbox 里，通常要填的是 **Base URL**，也就是基础入口地址，而不是具体某个接口路径。
@@ -229,7 +229,7 @@ gpt-4o-mini
 而不是自己猜：
 
 - `chatgpt`
-- `gpt4`
+- `gpt5`
 - `gpt-latest`
 - `openai-gpt`
 
@@ -378,8 +378,8 @@ gpt-4o-mini
 
 重点确认：
 
-- 应该填的是不是 `https://your-api-domain/v1`
-- 而不是 `https://your-api-domain/v1/chat/completions`
+- 应该填的是不是 `https://jeniya.cn/v1`
+- 而不是 `https://jeniya.cn/v1/chat/completions`
 
 ---
 
