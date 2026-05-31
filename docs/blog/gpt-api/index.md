@@ -4,6 +4,12 @@
 
 ## 最新文章
 
+- [GPT API 国内替代方案有哪些？如果你不想只依赖单一路线](/blog/gpt-api/gpt-api-alternative-guide.html)
+
+- [GPT API 接入 Chatbox 怎么配？完整教程](/blog/gpt-api/chatbox-gpt-api-guide.html)
+
+- [GPT API 专题总览：从 Key、接入、报错到模型选择一篇讲清](/blog/gpt-api/gpt-api-topic-overview.html)
+
 - [GPT API 国内使用完整指南：从申请、接入到模型选择](/blog/gpt-api/gpt-complete-guide.html)
 
 - [GPT 国内怎么用？中转方案、兼容接口与接入建议](/blog/gpt-api/gpt-api-china-middleman-guide.html)

@@ -200,5 +200,28 @@
     <priority>0.8</priority>
   </url>
 
+          <url>
+    <loc>https://apizhongzhan.com/blog/gemini-api/chatbox-gemini-api-guide.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+          <url>
+    <loc>https://apizhongzhan.com/blog/gpt-api/gpt-api-topic-overview.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+          <url>
+    <loc>https://apizhongzhan.com/blog/gpt-api/chatbox-gpt-api-guide.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+          <url>
+    <loc>https://apizhongzhan.com/blog/gpt-api/gpt-api-topic-overview.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
 </urlset>

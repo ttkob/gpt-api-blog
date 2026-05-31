@@ -32,6 +32,9 @@ export default defineConfig({
           text: 'GPT API 专题',
           items: [
             { text: 'GPT API 分类首页', link: '/blog/gpt-api/' },
+            { text: 'GPT API 接入 Chatbox 怎么配？完整教程', link: '/blog/gpt-api/chatbox-gpt-api-guide.html' },
+            { text: 'GPT API 国内替代方案有哪些？如果你不想只依赖单一路线', link: '/blog/gpt-api/chatbox-gpt-api-guide.html' },
+            { text: 'GPT API 专题总览：从 Key、接入、报错到模型选择一篇讲清', link: '/blog/gpt-api/gpt-api-topic-overview.html' },
             { text: 'GPT API 国内使用完整指南：从申请、接入到模型选择', link: '/blog/gpt-api/gpt-complete-guide.html' },
             { text: 'GPT API 中转站怎么选？开发者最该关注的 8 个问题', link: '/blog/gpt-api/gpt-api-middleman-selection-guide.html' },
             { text: 'GPT 国内怎么用？中转方案、兼容接口与接入建议', link: '/blog/gpt-api/gpt-api-china-middleman-guide.html' },
@@ -77,6 +80,7 @@ export default defineConfig({
           text: 'Gemini API 专题',
           items: [
             { text: 'Gemini API 分类首页', link: '/blog/gemini-api/' },
+            { text: 'Gemini API 国内接入 Chatbox 怎么配？完整教程', link: '/blog/gemini-api/chatbox-gemini-api-guide.html' },
             { text: 'Gemini API 和 GPT API 有什么区别？开发者该怎么选', link: '/blog/gemini-api/gemini-vs-gpt-api-guide' },
             { text: 'Gemini API 如何调用？cURL 从零到实战示例', link: '/blog/gemini-api/gemini-api-curl-guide' },
             { text: 'Gemini API 调用失败怎么办？常见错误与排查方法汇总', link: '/blog/gemini-api/gemini-api-errors-guide' },

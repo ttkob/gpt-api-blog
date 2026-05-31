@@ -4,6 +4,8 @@
 
 ## 最新文章
 
+- [Gemini API 国内接入 Chatbox 怎么配？完整教程]( /blog/gemini-api/chatbox-gemini-api-guide.html)
+
 - [Gemini API 和 GPT API 有什么区别？开发者该怎么选]( /blog/gemini-api/gemini-vs-gpt-api-guide.html)
 
 - [Gemini API 如何调用？cURL 从零到实战示例]( /blog/gemini-api/gemini-api-curl-guide.html)
