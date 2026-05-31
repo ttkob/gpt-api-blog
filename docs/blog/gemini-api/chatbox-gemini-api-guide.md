@@ -115,7 +115,7 @@ Chatbox 这类桌面客户端受欢迎，一个很重要的原因就是：
 如果是兼容 OpenAI 风格的接口，通常你会拿到类似：
 
 ```text
-https://your-api-domain/v1
+https://jeniya.cn/v1
 ```
 
 注意这里一般是 **Base URL**，不是完整的接口路径。
@@ -362,8 +362,8 @@ gemini-3.0-pro
 
 重点检查：
 
-- 应该填的是不是 `https://your-api-domain/v1`
-- 而不是 `https://your-api-domain/v1/chat/completions`
+- 应该填的是不是 `https://jeniya.cn/v1`
+- 而不是 `https://jeniya.cn/v1/chat/completions`
 
 ---
 
