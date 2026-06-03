@@ -1,8 +1,10 @@
-# Gemini API 分类
+# Gemini API 中转站
 
 这里将持续更新 Gemini API 相关教程，包括使用方法、调用说明、适用场景与问题排查。
 
 ## 最新文章
+
+- [Gemini API中转站怎么选？国内直连 Google Gemini 3.5 Pro/Flash 教程](/blog/gemini-api/gemini-api-relay-guide.html)
 
 - [Gemini API 国内接入 Chatbox 怎么配？完整教程]( /blog/gemini-api/chatbox-gemini-api-guide.html)
 

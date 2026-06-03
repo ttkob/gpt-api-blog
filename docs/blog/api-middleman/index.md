@@ -1,8 +1,10 @@
-# API中转站分类
+# API中转站
 
 这里将持续更新 API 中转站、AI 中转站、国内 API 中转、大模型聚合中转相关教程与平台说明。
 
 ## 最新文章
+
+- [2026国内GPT API中转站推荐：如何选择稳定、便宜的AI大模型中转平台？](/blog/api-middleman/best-domestic-gpt-api-relay.html)
 
 - [免费大模型 API 怎么找？适合测试和学习的 API 获取思路](/blog/api-middleman/free-llm-api-how-to-find.html)
 

@@ -61,6 +61,7 @@ export default defineConfig({
           text: 'Claude API 专题',
           items: [
             { text: 'Claude API 分类首页', link: '/blog/claude-api/' },
+            { text: 'Claude API中转站推荐：国内如何免申请、低成本调用 Claude 4.5 Sonnet？', link: '/blog/claude-api/claude-api-relay-guide.html' },
             { text: 'Claude API 如何调用？Python 接入示例与参数说明', link: '/blog/claude-api/claude-api-python-guide' },
             { text: 'Claude API 国内怎么用？申请、接入与中转方案完整教程', link: '/blog/claude-api/claude-api-china-guide' }
           ]
@@ -80,6 +81,7 @@ export default defineConfig({
           text: 'Gemini API 专题',
           items: [
             { text: 'Gemini API 分类首页', link: '/blog/gemini-api/' },
+            { text: 'Gemini API中转站怎么选？国内直连 Google Gemini 3.5 Pro/Flash 教程', link: '/blog/gemini-api/gemini-api-relay-guide.html' },
             { text: 'Gemini API 国内接入 Chatbox 怎么配？完整教程', link: '/blog/gemini-api/chatbox-gemini-api-guide.html' },
             { text: 'Gemini API 和 GPT API 有什么区别？开发者该怎么选', link: '/blog/gemini-api/gemini-vs-gpt-api-guide' },
             { text: 'Gemini API 如何调用？cURL 从零到实战示例', link: '/blog/gemini-api/gemini-api-curl-guide' },
@@ -106,6 +108,7 @@ export default defineConfig({
           text: 'API 中转专题',
           items: [
             { text: 'API中转站分类首页', link: '/blog/api-middleman/' },
+            { text: '2026国内GPT API中转站推荐：如何选择稳定、便宜的AI大模型中转平台？', link: '/blog/api-middleman/best-domestic-gpt-api-relay.html' },
             { text: '免费大模型 API 怎么找？适合测试和学习的 API 获取思路', link: '/blog/api-middleman/free-llm-api-how-to-find.html' },
             { text: 'A免费 API 接口有哪些？开发者如何选择可用的 AI API 方案', link: '/blog/api-middleman/free-ai-api-guide' },
             { text: ' 大模型 API 是什么？开发者常见的大模型 API 使用场景', link: '/blog/api-middleman/what-is-llm-api' },
