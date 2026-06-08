@@ -4,6 +4,13 @@
 
 ## 最新文章
 
+
+- [100% 兼容 OpenAI SDK：如何用一套代码无缝切换 GPT-5.5、Claude 4.8 和 Gemini 3.5 flash](/blog/api-middleman/openai-sdk-compatible-relay.html)
+
+- [国内大模型 API 中转站接入 Dify / FastGPT 完整教程：一键配置 GPT/Claude/Gemini](/blog/api-middleman/dify-fastgpt-api-relay-setup.html)
+
+- [为什么国内开发者都在用 AI 中转站？相比官方 API 的 5 大痛点与优势](/blog/api-middleman/why-developers-use-ai-relay.html)
+
 - [2026国内GPT API中转站推荐：如何选择稳定、便宜的AI大模型中转平台？](/blog/api-middleman/best-domestic-gpt-api-relay.html)
 
 - [免费大模型 API 怎么找？适合测试和学习的 API 获取思路](/blog/api-middleman/free-llm-api-how-to-find.html)

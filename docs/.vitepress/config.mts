@@ -108,6 +108,9 @@ export default defineConfig({
           text: 'API 中转专题',
           items: [
             { text: 'API中转站分类首页', link: '/blog/api-middleman/' },
+            { text: '100% 兼容 OpenAI SDK：如何用一套代码无缝切换 GPT-5.5、Claude 4.8 和 Gemini 3.5 flash', link: '/blog/api-middleman/openai-sdk-compatible-relay.html' },
+            { text: '国内大模型 API 中转站接入 Dify / FastGPT 完整教程：一键配置 GPT/Claude/Gemini', link: '/blog/api-middleman/dify-fastgpt-api-relay-setup.html' },
+            { text: '为什么国内开发者都在用 AI 中转站？相比官方 API 的 5 大痛点与优势', link: '/blog/api-middleman/why-developers-use-ai-relay.html' },
             { text: '2026国内GPT API中转站推荐：如何选择稳定、便宜的AI大模型中转平台？', link: '/blog/api-middleman/best-domestic-gpt-api-relay.html' },
             { text: '免费大模型 API 怎么找？适合测试和学习的 API 获取思路', link: '/blog/api-middleman/free-llm-api-how-to-find.html' },
             { text: 'A免费 API 接口有哪些？开发者如何选择可用的 AI API 方案', link: '/blog/api-middleman/free-ai-api-guide' },
