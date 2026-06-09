@@ -356,7 +356,7 @@ print(response.choices[0].message.content)
 如果你未来还要接 Claude、Gemini，只要平台支持，很多时候只需要改 `model` 即可。
 
 相关阅读：
-- [OpenAI API 平台怎么选？开发者最该关注的 6 个问题](/blog/gpt-api/openai-api-platform-guide.html)
+
 - [GPT API 中转站怎么选？开发者最该关注的 8 个问题](/blog/gpt-api/gpt-api-middleman-selection-guide.html)
 
 ---
@@ -385,7 +385,6 @@ print(response.choices[0].message.content)
 
 - [GPT API 中转站怎么选？开发者最该关注的 8 个问题](/blog/gpt-api/gpt-api-middleman-selection-guide.html)
 - [GPT 国内怎么用？中转方案、兼容接口与接入建议](/blog/gpt-api/gpt-api-china-middleman-guide.html)
-- [OpenAI API 平台怎么选？开发者最该关注的 6 个问题](/blog/gpt-api/openai-api-platform-guide.html)
 - [100% 兼容 OpenAI SDK：如何用一套代码无缝切换 GPT-5.5、Claude 4.8 和 Gemini 3.5 flash](/blog/api-middleman/openai-sdk-compatible-relay.html)
 - [开发文档](/docs.html)
 - [价格说明](/pricing.html)
