@@ -5,6 +5,8 @@
 
 ## 最新文章
 
+- [Claudeapi中转站推荐：国内如何稳定调用 Claude 4.8 Sonnet 接口？](/blog/claude-api/claude-api-relay-station-guide.html)
+
 - [Claude API中转站推荐：国内如何免申请、低成本调用 Claude 4.5 Sonnet？](/blog/claude-api/claude-api-relay-guide.html)
 
 - [Claude API 如何调用？Python 接入示例与参数说明](/blog/claude-api/claude-api-python-guide)

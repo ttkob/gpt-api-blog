@@ -5,6 +5,9 @@
 ## 最新文章
 
 
+
+- [免费 AI 中转站靠谱吗？测试与生产环境的 API 中转站选型避坑指南](/blog/api-middleman/free-vs-paid-api-relay-guide.html)
+
 - [100% 兼容 OpenAI SDK：如何用一套代码无缝切换 GPT-5.5、Claude 4.8 和 Gemini 3.5 flash](/blog/api-middleman/openai-sdk-compatible-relay.html)
 
 - [国内大模型 API 中转站接入 Dify / FastGPT 完整教程：一键配置 GPT/Claude/Gemini](/blog/api-middleman/dify-fastgpt-api-relay-setup.html)

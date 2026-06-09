@@ -32,6 +32,7 @@ export default defineConfig({
           text: 'GPT API 专题',
           items: [
             { text: 'GPT API 分类首页', link: '/blog/gpt-api/' },
+            { text: '国内GPT API中转平台怎么选？一文教你如何挑选高可用 gpt api中转站', link: '/blog/gpt-api/how-to-choose-domestic-gpt-api-relay.html' },
             { text: 'GPT API 接入 Chatbox 怎么配？完整教程', link: '/blog/gpt-api/chatbox-gpt-api-guide.html' },
             { text: 'GPT API 国内替代方案有哪些？如果你不想只依赖单一路线', link: '/blog/gpt-api/chatbox-gpt-api-guide.html' },
             { text: 'GPT API 专题总览：从 Key、接入、报错到模型选择一篇讲清', link: '/blog/gpt-api/gpt-api-topic-overview.html' },
@@ -61,6 +62,7 @@ export default defineConfig({
           text: 'Claude API 专题',
           items: [
             { text: 'Claude API 分类首页', link: '/blog/claude-api/' },
+            { text: 'Claude api中转站推荐：国内如何稳定调用 Claude 4.8 Sonnet 接口？', link: '/blog/claude-api/claude-api-relay-station-guide.html' },
             { text: 'Claude API中转站推荐：国内如何免申请、低成本调用 Claude 4.5 Sonnet？', link: '/blog/claude-api/claude-api-relay-guide.html' },
             { text: 'Claude API 如何调用？Python 接入示例与参数说明', link: '/blog/claude-api/claude-api-python-guide' },
             { text: 'Claude API 国内怎么用？申请、接入与中转方案完整教程', link: '/blog/claude-api/claude-api-china-guide' }
@@ -108,6 +110,7 @@ export default defineConfig({
           text: 'API 中转专题',
           items: [
             { text: 'API中转站分类首页', link: '/blog/api-middleman/' },
+             { text: '免费 AI 中转站靠谱吗？测试与生产环境的 API 中转站选型避坑指南', link: '/blog/api-middleman/free-vs-paid-api-relay-guide.html' },
             { text: '100% 兼容 OpenAI SDK：如何用一套代码无缝切换 GPT-5.5、Claude 4.8 和 Gemini 3.5 flash', link: '/blog/api-middleman/openai-sdk-compatible-relay.html' },
             { text: '国内大模型 API 中转站接入 Dify / FastGPT 完整教程：一键配置 GPT/Claude/Gemini', link: '/blog/api-middleman/dify-fastgpt-api-relay-setup.html' },
             { text: '为什么国内开发者都在用 AI 中转站？相比官方 API 的 5 大痛点与优势', link: '/blog/api-middleman/why-developers-use-ai-relay.html' },

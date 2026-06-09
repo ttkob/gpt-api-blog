@@ -4,6 +4,8 @@
 
 ## 最新文章
 
+- [国内GPT API中转平台怎么选？一文教你如何挑选高可用 gpt api中转站](/blog/gpt-api/how-to-choose-domestic-gpt-api-relay.html)
+
 - [GPT API 国内替代方案有哪些？如果你不想只依赖单一路线](/blog/gpt-api/gpt-api-alternative-guide.html)
 
 - [GPT API 接入 Chatbox 怎么配？完整教程](/blog/gpt-api/chatbox-gpt-api-guide.html)
