@@ -4,6 +4,8 @@
 
 ## 最新文章
 
+- [geminiapi中转站使用指南：国内直连 Google Gemini 3.5 Pro 接口方案](/blog/gemini-api/gemini-api-relay-station-guide.html)
+
 - [Gemini API中转站怎么选？国内直连 Google Gemini 3.5 Pro/Flash 教程](/blog/gemini-api/gemini-api-relay-guide.html)
 
 - [Gemini API 国内接入 Chatbox 怎么配？完整教程]( /blog/gemini-api/chatbox-gemini-api-guide.html)

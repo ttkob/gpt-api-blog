@@ -32,6 +32,7 @@ export default defineConfig({
           text: 'GPT API 专题',
           items: [
             { text: 'GPT API 分类首页', link: '/blog/gpt-api/' },
+            { text: '如何通过 gptapi中转站 获取并使用 OpenAI API Key？国内直连教程', link: '/blog/gpt-api/how-to-get-openai-key-via-relay.html' },
             { text: '国内GPT API中转平台怎么选？一文教你如何挑选高可用 gpt api中转站', link: '/blog/gpt-api/how-to-choose-domestic-gpt-api-relay.html' },
             { text: 'GPT API 接入 Chatbox 怎么配？完整教程', link: '/blog/gpt-api/chatbox-gpt-api-guide.html' },
             { text: 'GPT API 国内替代方案有哪些？如果你不想只依赖单一路线', link: '/blog/gpt-api/chatbox-gpt-api-guide.html' },
@@ -83,6 +84,7 @@ export default defineConfig({
           text: 'Gemini API 专题',
           items: [
             { text: 'Gemini API 分类首页', link: '/blog/gemini-api/' },
+            { text: 'geminiapi中转站使用指南：国内直连 Google Gemini 3.5 Pro 接口方案', link: '/blog/gemini-api/gemini-api-relay-station-guide.html' },
             { text: 'Gemini API中转站怎么选？国内直连 Google Gemini 3.5 Pro/Flash 教程', link: '/blog/gemini-api/gemini-api-relay-guide.html' },
             { text: 'Gemini API 国内接入 Chatbox 怎么配？完整教程', link: '/blog/gemini-api/chatbox-gemini-api-guide.html' },
             { text: 'Gemini API 和 GPT API 有什么区别？开发者该怎么选', link: '/blog/gemini-api/gemini-vs-gpt-api-guide' },
@@ -110,7 +112,8 @@ export default defineConfig({
           text: 'API 中转专题',
           items: [
             { text: 'API中转站分类首页', link: '/blog/api-middleman/' },
-             { text: '免费 AI 中转站靠谱吗？测试与生产环境的 API 中转站选型避坑指南', link: '/blog/api-middleman/free-vs-paid-api-relay-guide.html' },
+            { text: '免费大模型API靠谱吗？AI大模型api中转站与免费api接口深度对比', link: '/blog/api-middleman/free-vs-paid-llm-api-relay.html' },
+            { text: '免费 AI 中转站靠谱吗？测试与生产环境的 API 中转站选型避坑指南', link: '/blog/api-middleman/free-vs-paid-api-relay-guide.html' },
             { text: '100% 兼容 OpenAI SDK：如何用一套代码无缝切换 GPT-5.5、Claude 4.8 和 Gemini 3.5 flash', link: '/blog/api-middleman/openai-sdk-compatible-relay.html' },
             { text: '国内大模型 API 中转站接入 Dify / FastGPT 完整教程：一键配置 GPT/Claude/Gemini', link: '/blog/api-middleman/dify-fastgpt-api-relay-setup.html' },
             { text: '为什么国内开发者都在用 AI 中转站？相比官方 API 的 5 大痛点与优势', link: '/blog/api-middleman/why-developers-use-ai-relay.html' },
