@@ -112,6 +112,9 @@ export default defineConfig({
           text: 'API 中转专题',
           items: [
             { text: 'API中转站分类首页', link: '/blog/api-middleman/' },
+            { text: '中转站api怎么看懂扣费？一文读懂 ai api中转站 的倍率、额度与分组逻辑', link: '/blog/api-middleman/understanding-relay-api-pricing-and-groups.html' },
+            { text: '多模型混合开发：如何在一个接口中聚合使用 gptapi中转站、Claudeapi中转站 与 geminiapi中转站？', link: '/blog/api-middleman/multi-model-integration-guide.html' },
+            { text: '2026最新国内gpt api中转平台测评：5 个硬核指标帮你做 api中转站推荐', link: '/blog/api-middleman/2026-domestic-gpt-api-platform-review.html' },
             { text: '免费大模型API靠谱吗？AI大模型api中转站与免费api接口深度对比', link: '/blog/api-middleman/free-vs-paid-llm-api-relay.html' },
             { text: '免费 AI 中转站靠谱吗？测试与生产环境的 API 中转站选型避坑指南', link: '/blog/api-middleman/free-vs-paid-api-relay-guide.html' },
             { text: '100% 兼容 OpenAI SDK：如何用一套代码无缝切换 GPT-5.5、Claude 4.8 和 Gemini 3.5 flash', link: '/blog/api-middleman/openai-sdk-compatible-relay.html' },
