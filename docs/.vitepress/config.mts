@@ -63,6 +63,10 @@ export default defineConfig({
           text: 'Claude API 专题',
           items: [
             { text: 'Claude API 分类首页', link: '/blog/claude-api/' },
+            { text: 'Claude Code 国内怎么用？利用 Claude Code 国内中转站免翻墙无缝接入教程', link: '/blog/claude-api/how-to-use-claude-code-in-china.html' },
+            { text: 'Claude API 频繁被封？国内开发者如何安全使用 claude code 国内中转站', link: '/blog/claude-api/how-to-avoid-claude-api-ban.html' },
+            { text: 'Claude Code API 怎么配置？手把手教你用 claude code中转站 激活终端 AI 助手', link: '/blog/claude-api/claude-code-api-configuration-guide.html' },
+            { text: '2026国内 Claude Code 中转站推荐：5 个硬核指标帮你做 claude中转站 选型', link: '/blog/claude-api/best-claude-code-relay-station-2026.html' },
             { text: 'Claude api中转站推荐：国内如何稳定调用 Claude 4.8 Sonnet 接口？', link: '/blog/claude-api/claude-api-relay-station-guide.html' },
             { text: 'Claude API中转站推荐：国内如何免申请、低成本调用 Claude 4.5 Sonnet？', link: '/blog/claude-api/claude-api-relay-guide.html' },
             { text: 'Claude API 如何调用？Python 接入示例与参数说明', link: '/blog/claude-api/claude-api-python-guide' },

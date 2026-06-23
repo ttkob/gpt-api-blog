@@ -5,6 +5,14 @@
 
 ## 最新文章
 
+- [2026国内 Claude Code 中转站推荐：5 个硬核指标帮你做 claude中转站 选型](/blog/claude-api/best-claude-code-relay-station-2026.html)
+
+- [Claude Code API 怎么配置？手把手教你用 claude code中转站 激活终端 AI 助手](/blog/claude-api/claude-code-api-configuration-guide.html)
+
+- [Claude API 频繁被封？国内开发者如何安全使用 claude code 国内中转站](/blog/claude-api/how-to-avoid-claude-api-ban.html)
+
+- [Claude Code 国内怎么用？利用 Claude Code 国内中转站免翻墙无缝接入教程](/blog/claude-api/how-to-use-claude-code-in-china.html)
+
 - [Claudeapi中转站推荐：国内如何稳定调用 Claude 4.8 Sonnet 接口？](/blog/claude-api/claude-api-relay-station-guide.html)
 
 - [Claude API中转站推荐：国内如何免申请、低成本调用 Claude 4.5 Sonnet？](/blog/claude-api/claude-api-relay-guide.html)
