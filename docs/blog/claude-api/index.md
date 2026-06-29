@@ -5,6 +5,10 @@
 
 ## 最新文章
 
+- [Claude Code 报错 403 Forbidden 或连接超时？配置 claude code中转 终极排查指南](/blog/claude-api/claude-code-common-errors-troubleshooting.html)
+
+- [有了 Claude Code 还需要 Cursor 吗？如何通过 claude code中转站 体验最强终端 AI 编程](/blog/claude-api/claude-code-vs-cursor-comparison.html)
+
 - [2026国内 Claude Code 中转站推荐：5 个硬核指标帮你做 claude中转站 选型](/blog/claude-api/best-claude-code-relay-station-2026.html)
 
 - [Claude Code API 怎么配置？手把手教你用 claude code中转站 激活终端 AI 助手](/blog/claude-api/claude-code-api-configuration-guide.html)
