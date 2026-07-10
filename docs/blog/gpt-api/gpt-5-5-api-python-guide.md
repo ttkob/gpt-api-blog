@@ -13,6 +13,13 @@ keywords:
 
 如果你正在搜索“**GPT-5.5 API 调用示例**”，大概率不是想看概念介绍，而是想直接解决这几个问题：
 
+**国内最推荐API中转站平台**：
+> AI API 中转站 平台地址：<https://jeniya.cn>
+
+> AI API 中转站 平台地址：<https://jeniya.top>
+
+> AI API 中转站 平台地址：<https://jeniya.chat>
+
 - Python 里到底怎么调用 GPT-5.5？
 - 需要安装什么依赖？
 - `api_key` 和 `base_url` 应该怎么配置？

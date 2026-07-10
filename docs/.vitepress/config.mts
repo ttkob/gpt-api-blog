@@ -32,6 +32,9 @@ export default defineConfig({
           text: 'GPT API 专题',
           items: [
             { text: 'GPT API 分类首页', link: '/blog/gpt-api/' },
+            { text: '高并发对接 GPT-5.6-terra API：为什么企业级项目必须选择 GPT-5.6 中转站？', link: '/blog/gpt-api/enterprise-gpt-5-6-terra-api-relay.html' },
+            { text: 'GPT-5.6-luna、sol、terra 区别是什么？通过 API 中转站实现性价比调用指南', link: '/blog/gpt-api/gpt-5-6-luna-sol-terra-comparison.html' },
+            { text: 'GPT-5.6-luna/sol/terra API 国内怎么调用？首发 GPT-5.6 中转站免翻墙接入教程', link: '/blog/gpt-api/gpt-5-6-luna-sol-terra-china-guide.html' },
             { text: '如何通过 gptapi中转站 获取并使用 OpenAI API Key？国内直连教程', link: '/blog/gpt-api/how-to-get-openai-key-via-relay.html' },
             { text: '国内GPT API中转平台怎么选？一文教你如何挑选高可用 gpt api中转站', link: '/blog/gpt-api/how-to-choose-domestic-gpt-api-relay.html' },
             { text: 'GPT API 接入 Chatbox 怎么配？完整教程', link: '/blog/gpt-api/chatbox-gpt-api-guide.html' },
