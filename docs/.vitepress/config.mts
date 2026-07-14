@@ -95,6 +95,8 @@ export default defineConfig({
           text: 'Gemini API 专题',
           items: [
             { text: 'Gemini API 分类首页', link: '/blog/gemini-api/' },
+            { text: 'Gemini 3.5 Flash vs Pro 怎么选？如何通过 API 中转站实现超低成本调用？', link: '/blog/gemini-api/gemini-3-5-flash-vs-pro-pricing.html' },
+            { text: 'Gemini 3.5 API 国内怎么调用？免绑卡直连 Gemini 3.5 Flash/Pro 中转站教程', link: '/blog/gemini-api/gemini-3-5-api-china-direct-access.html' },
             { text: 'geminiapi中转站使用指南：国内直连 Google Gemini 3.5 Pro 接口方案', link: '/blog/gemini-api/gemini-api-relay-station-guide.html' },
             { text: 'Gemini API中转站怎么选？国内直连 Google Gemini 3.5 Pro/Flash 教程', link: '/blog/gemini-api/gemini-api-relay-guide.html' },
             { text: 'Gemini API 国内接入 Chatbox 怎么配？完整教程', link: '/blog/gemini-api/chatbox-gemini-api-guide.html' },
