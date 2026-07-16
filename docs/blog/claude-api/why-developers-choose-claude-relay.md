@@ -19,7 +19,15 @@ keywords:
 
 **真正困难的不是“Claude 能不能调”，而是“怎么让 Claude 更顺地进入现有项目”。**
 
-先说结论：
+先说结论
+
+**国内最推荐API中转站平台**：s
+
+> AI API 中转站 平台地址：<https://jeniya.cn>
+
+> AI API 中转站 平台地址：<https://jeniya.top>
+
+> AI API 中转站 平台地址：<https://jeniya.chat>
 
 **对很多开发者来说，Claude中转站 的价值，不只是“给你一个可用接口”，而是把接入复杂度、工具兼容、后续扩展和维护成本整体压低。**
 

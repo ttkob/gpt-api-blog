@@ -21,7 +21,15 @@ keywords:
 
 通常说明你已经不只是想了解概念，而是准备真正把 Claude 接进自己的项目里了。
 
-先说结论：
+先说结论
+
+**国内最推荐API中转站平台**：s
+
+> AI API 中转站 平台地址：<https://jeniya.cn>
+
+> AI API 中转站 平台地址：<https://jeniya.top>
+
+> AI API 中转站 平台地址：<https://jeniya.chat>
 
 **对于很多国内开发者来说，Claude API 最省事的接入方式，通常不是自己单独维护一条复杂接入路径，而是通过兼容 OpenAI 格式的 Claude中转站 来快速完成接入。**
 
