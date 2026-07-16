@@ -66,6 +66,11 @@ export default defineConfig({
           text: 'Claude API 专题',
           items: [
             { text: 'Claude API 分类首页', link: '/blog/claude-api/' },
+            { text: 'Claude API 国内怎么调用？一文看懂 Claude中转站 的接入方式', link: '/blog/claude-api/claude-api-china-relay-guide.html' },
+            { text: 'Claude API中转站推荐：测试和生产环境，Claude中转站 应该怎么选？', link: '/blog/claude-api/claude-relay-for-testing-vs-production.html' },
+            { text: 'Claude中转站怎么选？开发者挑选 Claude API中转站 的 7 个关键指标', link: '/blog/claude-api/how-to-choose-claude-api-relay.html' },
+            { text: 'Claude API 是什么？国内开发者如何快速接入 Claude API 中转站', link: '/blog/claude-api/what-is-claude-api-and-how-to-use-relay.html' },
+            { text: 'Claude API中转站推荐：为什么越来越多开发者用 Claude中转站 代替单一路线接入', link: '/blog/claude-api/why-developers-choose-claude-relay.html' },
             { text: 'Claude API 怎么接入？一篇看懂 claude中转站 的使用方式与选型建议', link: '/blog/claude-api/claude-api-relay-guide-overview.html' },
             { text: 'Claude API 国内怎么调用？Claude API 接入完整教程', link: '/blog/claude-api/claude-api-china-guide.html' },
             { text: 'Claude Code 报错 403 Forbidden 或连接超时？配置 claude code中转 终极排查指南', link: '/blog/claude-api/claude-code-common-errors-troubleshooting.html' },

@@ -5,6 +5,16 @@
 
 ## 最新文章
 
+- [Claude API中转站推荐：为什么越来越多开发者用 Claude中转站 代替单一路线接入](/blog/claude-api/why-developers-choose-claude-relay.html)
+
+- [Claude API 是什么？国内开发者如何快速接入 Claude API 中转站](/blog/claude-api/what-is-claude-api-and-how-to-use-relay.html)
+
+- [Claude中转站怎么选？开发者挑选 Claude API中转站 的 7 个关键指标](/blog/claude-api/how-to-choose-claude-api-relay.html)
+
+- [Claude API中转站推荐：测试和生产环境，Claude中转站 应该怎么选？](/blog/claude-api/claude-relay-for-testing-vs-production.html)
+
+- [Claude API 国内怎么调用？一文看懂 Claude中转站 的接入方式](/blog/claude-api/claude-api-china-relay-guide.html)
+
 - [Claude API 怎么接入？一篇看懂 claude中转站 的使用方式与选型建议](/blog/claude-api/claude-api-relay-guide-overview.html)
 
 - [Claude API 国内怎么调用？Claude API 接入完整教程](/blog/claude-api/claude-api-china-guide.html)

@@ -387,4 +387,37 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
+  <url>
+    <loc>https://apizhongzhan.com/blog/claude-api/claude-api-china-relay-guide.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+    <url>
+    <loc>https://apizhongzhan.com/blog/claude-api/claude-relay-for-testing-vs-production.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+
+    <url>
+    <loc>https://apizhongzhan.com/blog/claude-api/how-to-choose-claude-api-relay.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+    <url>
+    <loc>https://apizhongzhan.com/blog/claude-api/what-is-claude-api-and-how-to-use-relay.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+    <url>
+    <loc>https://apizhongzhan.com/blog/claude-api/why-developers-choose-claude-relay.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+
 </urlset>
