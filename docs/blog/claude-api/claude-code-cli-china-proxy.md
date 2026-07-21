@@ -710,8 +710,8 @@ Claude Code 会非常适合你的工作流。
 如果你还想继续深入，建议阅读：
 
 - [国内如何稳定调用 Claude 5 API？免翻墙、防封号的 Claude 中转站配置教程](/blog/claude-api/how-to-use-claude-api-in-china.html)
-- [Claude Code 国内怎么用？利用 Claude Code 国内中转站免翻墙无缝接入教程](/blog/claude-code/how-to-use-claude-code-in-china.html)
-- [Claude Code API 怎么配置？手把手教你用 claude code中转站 激活终端 AI 助手](/blog/claude-code/claude-code-api-configuration-guide.html)
+- [Claude Code 国内怎么用？利用 Claude Code 国内中转站免翻墙无缝接入教程](/blog/claude-api/how-to-use-claude-code-in-china.html)
+- [Claude Code API 怎么配置？手把手教你用 claude code中转站 激活终端 AI 助手](/blog/claude-api/claude-code-api-configuration-guide.html)
 - [开发文档](/docs.html)
 - [价格说明](/pricing.html)
 
