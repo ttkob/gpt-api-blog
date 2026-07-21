@@ -66,6 +66,8 @@ export default defineConfig({
           text: 'Claude API 专题',
           items: [
             { text: 'Claude API 分类首页', link: '/blog/claude-api/' },
+            { text: '国内如何稳定调用 Claude 5 API？免翻墙、防封号的 Claude 中转站配置教程', link: '/blog/claude-api/how-to-use-claude-api-in-china.html' },
+            { text: 'Claude Code 怎么在国内用？用 Claude API 中转站完美激活 Claude Code 命令行工具', link: '/blog/claude-api/claude-code-cli-china-proxy.html' },
             { text: 'Claude API 国内怎么调用？一文看懂 Claude中转站 的接入方式', link: '/blog/claude-api/claude-api-china-relay-guide.html' },
             { text: 'Claude API中转站推荐：测试和生产环境，Claude中转站 应该怎么选？', link: '/blog/claude-api/claude-relay-for-testing-vs-production.html' },
             { text: 'Claude中转站怎么选？开发者挑选 Claude API中转站 的 7 个关键指标', link: '/blog/claude-api/how-to-choose-claude-api-relay.html' },

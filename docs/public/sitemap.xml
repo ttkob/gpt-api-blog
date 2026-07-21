@@ -419,5 +419,16 @@
     <priority>0.8</priority>
   </url>
 
+    <url>
+    <loc>https://apizhongzhan.com/blog/claude-api/claude-code-cli-china-proxy.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+      <url>
+    <loc>https://apizhongzhan.com/blog/claude-api/how-to-use-claude-api-in-china.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
 </urlset>

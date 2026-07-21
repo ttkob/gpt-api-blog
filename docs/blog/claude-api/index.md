@@ -5,6 +5,10 @@
 
 ## 最新文章
 
+- [国内如何稳定调用 Claude 5 API？免翻墙、防封号的 Claude 中转站配置教程](/blog/claude-api/how-to-use-claude-api-in-china.html)
+
+- [Claude Code 怎么在国内用？用 Claude API 中转站完美激活 Claude Code 命令行工具](/blog/claude-api/claude-code-cli-china-proxy.html)
+
 - [Claude API中转站推荐：为什么越来越多开发者用 Claude中转站 代替单一路线接入](/blog/claude-api/why-developers-choose-claude-relay.html)
 
 - [Claude API 是什么？国内开发者如何快速接入 Claude API 中转站](/blog/claude-api/what-is-claude-api-and-how-to-use-relay.html)
