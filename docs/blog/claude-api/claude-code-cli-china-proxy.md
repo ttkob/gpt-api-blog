@@ -31,7 +31,7 @@ Anthropic 推出的 **Claude Code**，正在迅速成为开发者圈里最热门
 
 > AI API 中转站 平台地址：<https://jeniya.cn>
 
-> AI API 中转站 平台地址：<https://jeniya.top>
+> AI API 中转站 平台地址：<https://jeniya.net>
 
 > AI API 中转站 平台地址：<https://jeniya.chat>
 

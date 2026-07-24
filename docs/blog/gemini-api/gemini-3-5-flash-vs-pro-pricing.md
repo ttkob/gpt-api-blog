@@ -32,7 +32,7 @@ Google 的 Gemini 3.5 家族延续了非常典型的“双子星”路线：
 **国内最推荐API中转站平台**：
 > AI API 中转站 平台地址：<https://jeniya.cn>
 
-> AI API 中转站 平台地址：<https://jeniya.top>
+> AI API 中转站 平台地址：<https://jeniya.net>
 
 > AI API 中转站 平台地址：<https://jeniya.chat>
 

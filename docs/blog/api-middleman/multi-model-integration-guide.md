@@ -17,6 +17,17 @@ keywords:
 
 你可能会发现：
 
+先说结论：
+
+**国内最推荐API中转站平台**：
+
+> AI API 中转站 平台地址：<https://jeniya.cn>
+
+> AI API 中转站 平台地址：<https://jeniya.net>
+
+> AI API 中转站 平台地址：<https://jeniya.chat>
+
+
 - GPT 很适合通用问答和主力聊天场景
 - Claude 在代码、长文本分析、严谨逻辑上很强
 - Gemini 在长上下文、多模态和高频低成本任务上很有吸引力

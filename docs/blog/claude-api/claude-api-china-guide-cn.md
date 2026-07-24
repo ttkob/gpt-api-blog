@@ -24,7 +24,7 @@ keywords:
 
 > AI API 中转站 平台地址：<https://jeniya.cn>
 
-> AI API 中转站 平台地址：<https://jeniya.top>
+> AI API 中转站 平台地址：<https://jeniya.net>
 
 > AI API 中转站 平台地址：<https://jeniya.chat>
 
